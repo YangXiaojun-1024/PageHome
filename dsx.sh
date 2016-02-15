@@ -9,7 +9,7 @@ send "3412\n"
 exp_continue
 }
 }
-exec git config user.name now
+exec git config user.name yangjun3412
 exec git config user.email 546197796@qq.com
 exec sudo date 111623092015.46
 exec touch 111623092015_3717.txt
